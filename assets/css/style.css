@@ -1285,7 +1285,7 @@ a.amituslab::after {
   -o-transition: all 1.5s cubic-bezier(0.19, 1, 0.22, 1) 0s;
   -webkit-background-clip: text;
   background-clip: text;
-  background-image: url("../images/home_text_background.png");
+  background-image: url("../images/home_text_background.jpg");
   color: transparent; }
 
 .top_text_1 .anim_inner_container {
